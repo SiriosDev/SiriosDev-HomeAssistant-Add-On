@@ -1,10 +1,7 @@
-# Home Assistant Add-on: Example add-on
+# Aria2 + AriaNg (WebUI)
 
-## How to use
+## How to use?
 
-This add-on really does nothing. It is just an example.
+This add-on provides an all-in-one solution to host a "download server" based on aria2 and its web interface (AriaNg).
 
-When started it will print the configured message or "Hello world" in the log.
-
-It will also print "All done!" in `/share/example_addon_output.txt` to show
-simple example of the usage of `map` in addon config.
+The downloaded files will be saved in `/share/aria2` folder.

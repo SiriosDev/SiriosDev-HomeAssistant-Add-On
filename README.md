@@ -10,14 +10,12 @@ Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>
 
 ## Add-ons
 
-### [Aria2 + AriaNg (WebUI)](./example)
+### [Aria2 + AriaNg (WebUI)](./aria2ng)
 
-[![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-informational?style=flat)](COPYRIGHT.md)
-![Supports aarch64 Architecture][aarch64-shield]
+[![License][licensing-shield]](COPYRIGHT.md)
+![Supports arm64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
-![Supports armhf Architecture][armhf-shield]
 ![Supports armv7 Architecture][armv7-shield]
-![Supports i386 Architecture][i386-shield]
 
 _Aria2 Download Manager & AiraNg Web Interfacce All I One Solution_
 
@@ -41,8 +39,7 @@ Notes to developers after forking or using the github template feature:
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg?style=flat
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg?style=flat
-[armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg?style=flat
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg?style=flat
-[i386-shield]: https://img.shields.io/badge/i386-yes-green.svg?style=flat
 [add-rep-hass]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [add-rep-link]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FSiriosDev%2FSiriosDev-HomeAssistant-Add-On
+[licensing-shield]: https://img.shields.io/badge/license-MIT%2FApache--2.0-informational?style=flat

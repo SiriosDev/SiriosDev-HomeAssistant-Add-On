@@ -1,4 +1,22 @@
 configuration:
-  message:
-    name: Message
-    description: The message that will be printed to the log when starting this example add-on.
+  dns: 
+    name: "DNS Server"
+    description: "Enter dns servers divided by commas; example: (1.1.1.1,8.8.8.8)."
+  SavePath: 
+    name: "Save Path"
+    description: "Enter path where to save completed downloads."
+  RPCKey: 
+    name: "RPC Secret Key"
+    description: "Enter the secret key for the RPC."
+  certfile: 
+    name: "certfile"
+    description: "Insert certfile."
+  keyfile: 
+    name: "keyfile"
+    description: "Insert keyfile."
+  ssl: 
+    name: "Enable SSL"
+    description: "Enable SSL (bool)."
+  whitelist: 
+    name: "IP Client Whitelist"
+    description: "Enter the addresses of allowed clients with divided by commas; example: (localhost,127.0.0.1)."
