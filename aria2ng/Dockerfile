@@ -5,4 +5,4 @@ FROM $BUILD_FROM
 # Execute during the build of the image
 
 # Copy root filesystem
-COPY rootfs /
+# COPY rootfs /
