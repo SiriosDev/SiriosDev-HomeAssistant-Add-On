@@ -1,5 +1,7 @@
 # Example Home Assistant add-on repository
 
+[![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-informational?style=flat)](COPYRIGHT.md)
+
 This repository can be used as a "blueprint" for add-on development to help you get started.
 
 Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>
