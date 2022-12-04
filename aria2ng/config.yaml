@@ -80,4 +80,4 @@ ports_description:
   "6880/tcp": "6880 Port"
   "6800/tcp": "6800 Port"
 
-image: "siriosdev/{arch}-aria2-ariang"
+image: "ghcr.io/siriosdev/{arch}-aria2-ariang"
