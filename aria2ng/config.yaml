@@ -2,7 +2,7 @@
 name: Aria2 + AriaNg (WebUI)
 version: "1.3.2"
 slug: aria2ng
-# codenotary: "sirioscommercial@gmail.com"
+codenotary: "sirioscommercial@gmail.com"
 description: "Aria2 Download Manager & AiraNg Web Interfacce All I One Solution"
 url: "https://github.com/SiriosDev/SiriosDev-HomeAssistant-Add-On/tree/main/aria2ng"
 privileged:
